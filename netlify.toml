@@ -1,0 +1,4 @@
+[build]
+    base = "."
+
+    command = "curl -fsSL https://deno.land/x/install/install.sh | sh"
