@@ -1,2 +1,2 @@
 [build]
-    command = "curl -fsSL https://deno.land/x/install/install.sh | sh"
+    command = "make publish"
